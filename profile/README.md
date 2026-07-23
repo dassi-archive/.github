@@ -4,7 +4,7 @@ DASSI is the Italian data archive for the social sciences.
 
 We support the collection, curation, preservation, and dissemination of research data, with particular attention to documentation quality, metadata standards, long-term accessibility, and responsible data reuse.
 
-DASSI operates at the University of Milano-Bicocca and is the Italian Service Provider of CESSDA ERIC, the European research infrastructure for social science data archives.
+DASSI, jointly operated by the University of Milano-Bicocca and the National Research Council of Italy (CNR), serves as the Italian Service Provider of CESSDA ERIC, the European research infrastructure for social science data archives.
 
 ## What we do
 
