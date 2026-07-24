@@ -1,6 +1,6 @@
 ![DASSI – Data Archive for Social Sciences in Italy](./assets/dassi-header.png)
 
-DASSI is the Italian data archive for the social sciences.
+**DASSI is the Italian data archive for the social sciences**.
 
 We support the collection, curation, preservation, and dissemination of research data, with particular attention to documentation quality, metadata standards, long-term accessibility, and responsible data reuse.
 
